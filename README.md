@@ -111,7 +111,7 @@ Here is the result of the inference using the video :
 
 ## Explore the Code!
 
-Notebook utama yang digunakan untuk pelatihan model dapat diakses pada link berikut :
+The main notebook used for model training can be accessed at the following link:
 
 [U-Net Training on Cityscapes Dataset](https://github.com/triwahyupra/project3_semantic_segmentation/blob/af88309aac1a4d76d6be73a0663941da9716e8cd/triwahyu_cityscape_segmentation.ipynb)
 
@@ -125,5 +125,5 @@ If you have any questions, feedback, or would like to contribute to this project
 - Email: [ triwahyu@reefgen.io ]
 - LinkedIn: [ [triwahyupra](https://www.linkedin.com/in/triwahyupra) ]
 
-hank you for your support and contributions!
+Thank you for your support and contributions!
 
