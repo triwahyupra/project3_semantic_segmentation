@@ -111,11 +111,11 @@ Here is the result of the inference using the video :
 
 ## Explore the Code!
 
-Notebook utama yang digunakan untuk pelatihan model dapat diakses pada 
+Notebook utama yang digunakan untuk pelatihan model dapat diakses pada link berikut :
 
-[NOTEBOOK U-Net - Cityscapes Dataset](https://github.com/triwahyupra/project3_semantic_segmentation/blob/af88309aac1a4d76d6be73a0663941da9716e8cd/triwahyu_cityscape_segmentation.ipynb)
+[U-Net Training on Cityscapes Dataset](https://github.com/triwahyupra/project3_semantic_segmentation/blob/af88309aac1a4d76d6be73a0663941da9716e8cd/triwahyu_cityscape_segmentation.ipynb)
 
-[NOTEBOOK Inference U-Net on Video](https://github.com/triwahyupra/project3_semantic_segmentation/blob/b77b335e8a3654c225a3ffebe39405097bdd3059/cityscapes_inference_on_video.ipynb)
+[Inference U-Net on Video](https://github.com/triwahyupra/project3_semantic_segmentation/blob/b77b335e8a3654c225a3ffebe39405097bdd3059/cityscapes_inference_on_video.ipynb)
 
 ## 📧 Contact
 
